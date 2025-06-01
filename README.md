@@ -1,5 +1,4 @@
 # Seamless Code Deployment Using Jenkins & Docker
-# Deploying code on a Docker Container using Jenkins on AWS
 
 ![AWS](https://imgur.com/Hk28ffE.png)
 
